@@ -1,0 +1,21 @@
+﻿Subfund_Code,Valuation_Date,Subfund_CCY,Subfund_Long_Name,Asset_Code,Asset_CCY,Market_Value_in_Subfund_CCY,Asset_Class,Country_of_Risk,Is_Hedge
+subfund001,19/01/2021,EUR,简,asset001,EUR,215000.00,Fixed Income,France,No
+subfund001,19/01/2021,EUR,简,asset002,USD,1641497.45,Equity,United States of America,No
+subfund001,19/01/2021,EUR,简,asset003,USD,-1345600.00,Equity,United States of America,Yes
+subfund001,19/01/2021,EUR,简,asset004,EUR,359831.26,Equity,Germany,No
+subfund001,19/01/2021,EUR,简,asset005,JPY,3255884.98,Fixed Income,Japan,No
+subfund001,19/01/2021,EUR,简,asset006,JPY,2123330.58,Equity,Japan,No
+subfund001,19/01/2021,EUR,简,asset007,RUB,988260.00,Equity,Russia,No
+subfund001,19/01/2021,EUR,简,asset008,EUR,-250000.00,Currency,,Yes
+subfund001,19/01/2021,EUR,简,asset009,USD,270000.00,Currency,,Yes
+subfund001,19/01/2021,EUR,简,asset010,EUR,9985332.05,Fixed Income,Italy,No
+subfund001,19/01/2021,EUR,简,asset011,EUR,9865330.00,Equity,Germany,No
+subfund001,19/01/2021,EUR,简,asset012,EUR,2289966.10,Equity,France,No
+subfund001,19/01/2021,EUR,简,asset013,CNY,145456.87,Equity,China,No
+subfund001,19/01/2021,EUR,简,asset014,JPY,8769310.19,Equity,Japan,No
+subfund001,19/01/2021,EUR,简,asset015,EUR,98000.00,Fixed Income,Spain,No
+subfund001,19/01/2021,EUR,简,asset016,USD,1133997.66,Equity,United States of America,No
+subfund001,19/01/2021,EUR,简,asset017,USD,-2232760.00,Equity,United States of America,No
+subfund001,19/01/2021,EUR,简,asset018,USD,535893.54,Fixed Income,United States of America,No
+subfund001,19/01/2021,EUR,简,asset019,EUR,5358463.00,Fixed Income,Germany,No
+subfund001,19/01/2021,EUR,简,asset020,EUR,58659.12,Equity,Germany,No
